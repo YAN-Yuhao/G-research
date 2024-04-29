@@ -1,4 +1,4 @@
-##This the Course Project for HKUST MATH 5470: Statistical Machine Learning (Spring 2024)
+**This the Course Project for HKUST `MATH 5470: Statistical Machine Learning` (Spring 2024)**
 
 The objective of this study is to apply advanced machine learning models, including Long Short-Term Memory (LSTM) networks and other large language models, to forecast short-term returns on 14 key cryptocurrencies.
 We explored two approaches for predicting cryptocurrency prices:
